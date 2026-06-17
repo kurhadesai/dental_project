@@ -7,10 +7,20 @@
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "express": "^5.2.1",
     "install": "^0.13.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurhadesai/dental_project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kurhadesai/dental_project/issues"
+  },
+  "homepage": "https://github.com/kurhadesai/dental_project#readme"
 }
